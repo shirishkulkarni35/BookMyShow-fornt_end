@@ -1,4 +1,4 @@
-import Form from "react-bootstrap/form";
+import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
 import Container from "react-bootstrap/Container";
 import { useState } from "react";
